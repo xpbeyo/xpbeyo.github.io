@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Toronto - Computer Science</a>. samuelyixp@outlook.com
+subtitle: University of Toronto - Computer Science. samuelyixp@outlook.com
 
 profile:
   align: right
