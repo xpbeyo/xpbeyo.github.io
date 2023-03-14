@@ -25,53 +25,23 @@
   contents:
     - title: R&D Software Engineer
       institution: Huawei Technologies Canada Co. Ltd 
-      year: May 2021 - April 2022
+      year: 2021 - 2022
       description:
         - Description 1.
         - Description 2.
     - title: Software Engineer Intern
       institution: Illumio
-      year: May 2022 - August 2022
+      year: 2022
       description:
         - Description 1.
         - Description 2.
 
     - title: Research Assistant
       institution: University of Toronto
-      year: Sep 2022 - Dec 2022
+      year: 2022
 
     - title: Teaching Assistant
       institution: University of Toronto
-      year: Jan 2023 - April 2023
+      year: 2023
       description:
         - CSC148 - Introduction to Computer Science
-
-- title: Projects
-  type: time_table
-  contents:
-    - title: Dynamic Memory Allocator
-      description:
-    - title: Graphics Renderer
-      description:
-    - title: Key-value Database
-      description:
-    - title: Distributed Database System
-      description:
-    - title: Conway's Game of Life
-      description:
-    - title: Global Sustainable Food
-      description:
-    - title: Diving Site Booking System
-      description:
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
