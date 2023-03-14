@@ -14,4 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm an undergraduate computer science student at the University of Toronto. I enjoyed building cool softwares and optimizing network and system code. Some of my hobbies are weight training, reading about sociology & anthropology. I hope you can learn more about me here.
+I'm an undergraduate computer science student at the University of Toronto. I enjoyed building cool softwares and optimizing network and system code. Some of my hobbies are weight training, reading about sociology & anthropology.
+
+I hope you can learn more about me here.
