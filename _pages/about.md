@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Toronto - Computer Science. samuelyixp@outlook.com
+subtitle: University of Toronto - Computer Science.
 
 profile:
   align: right
