@@ -13,7 +13,9 @@
       institution: University of Toronto
       year: 2018 - 2023
       description:
-        - GPA: 3.79 / 4
+        - title: GPA
+          contents:
+            - 3.79 / 4
         - title: Favorite Courses
           contents:
             - Computer System Programming
@@ -27,14 +29,14 @@
       institution: Huawei Technologies Canada Co. Ltd 
       year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Network simulation in C++
+        - Prototyping cutting-edge Remote Direct Memory Access algorithms
     - title: Software Engineer Intern
       institution: Illumio
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Cypress/TypeScript, Selenium/Java
+        - Dashboarding of test results
 
     - title: Research Assistant
       institution: University of Toronto
